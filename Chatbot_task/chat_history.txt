@@ -1,0 +1,22 @@
+User: hii
+Bot: Sorry, I didn't understand that.
+User: hi
+Bot: Hello!
+User: how are you
+Bot: I'm fine, thanks!
+User: bye
+Bot: Goodbye!
+User: hi
+Bot: Hello!
+User: hi
+Bot: Hello!
+User: how are you
+Bot: I'm fine, thanks!
+User: bye
+Bot: Goodbye!
+User: hi
+Bot: Hello!
+User: hello
+Bot: Hi!
+User: how are you
+Bot: I'm fine, thanks!
