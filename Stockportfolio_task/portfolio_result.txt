@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+------------------------
+AAPL → Qty: 4 | Price: $180 | Value: $720
+GOOGL → Qty: 6 | Price: $140 | Value: $840
+
+Total Investment: $1560
